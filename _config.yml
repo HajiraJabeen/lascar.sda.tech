@@ -34,13 +34,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "ESWC_2020_location.jpg"
-heroTitle: "LASCAR <typeout> 2020"
-eventDate: "May 31, 2020 - Jun 4, 2020 Online"
-typeoutTextValues: '"", "2nd Workshop on Large Scale RDF Analytics", "at ESWC"'
-typeoutFallback: "at ESWC"
+heroTitle: "LASCAR-20 — Workshop on Large Scale Knowledge Graph Analytics"
+eventDate: "May 31, 2020<br><br>This archive preserves the workshop information and accepted papers of LASCAR-20. The original workshop website was hosted at <code>lascar.sda.tech</code>.<br><br>Due to the COVID-19 pandemic, the accepted papers were not published in CEUR Workshop Proceedings as originally planned. They are made available here instead: <a href='accepted-papers/'>Accepted Papers</a>."
+typeoutTextValues: '""'
+typeoutFallback: ""
 heroButtons:
- - {permalink: "/blog/call-for-papers.html", text: "Call for Papers"}
- - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
+ - {permalink: "/accepted-papers/", text: "Accepted Papers"}
 
 # About Block
 aboutTitle: "About LASCAR Workshop"
