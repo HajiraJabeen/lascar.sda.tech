@@ -20,17 +20,17 @@ permalink: "/blog/:title.html"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/call-for-papers.html", text: "Call for Papers"}
+# - {permalink: "/blog/call-for-papers.html", text: "Call for Papers"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/submission/", text: "Submissions and Dates"}
+# - {permalink: "/submission/", text: "Submissions and Dates"}
  - {permalink: "/team/", text: "Committes"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "#", text: "Past Workshops"}
 bottomNavigationLinks:
- - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
+# - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
 rightNavigationButtons:
- - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
+# - {link: "https://www.easychair.org/conferences/?conf=lascar20", text: "Submit your work"}
 
 # Hero Block
 heroImage: "ESWC_2020_location.jpg"
